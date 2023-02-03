@@ -3,7 +3,7 @@
 fx_version 'adamant'
 games { 'rdr3', 'gta5' }
 
-author 'Your Name'
+author 'Centu'
 version '1.0.0'
 description 'A script that performs a mass vehicle deletion and sends chat messages 10 and 5 seconds before it starts'
 
